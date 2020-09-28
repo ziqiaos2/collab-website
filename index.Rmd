@@ -9,4 +9,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## This is our collaborative website
 
-![imgae](https://nt246.github.io/NTRES6940-data-science/assets/logo.png)
+![image](https://nt246.github.io/NTRES6940-data-science/assets/logo.png)
+
+Here is our website. 
